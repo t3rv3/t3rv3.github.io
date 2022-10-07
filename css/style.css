@@ -1,3 +1,7 @@
-body {background-color: powderblue;}
-h1   {color: black;}
-p    {color: black;}
+
+.box{
+background-color:#07FFF
+width:400px;
+padding:50px;
+border:solid 20px black;
+box-sizing:border-box;}
